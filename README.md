@@ -1,7 +1,7 @@
 # Termux-Os
 All in One Termux Os..!! (New)
 
-[![Termux-_Os.png](https://s26.postimg.org/v3m2sqg1l/Termux-_Os.png)](https://postimg.org/image/pffs1ubp1/)
+[![Termux-_Os.png]( https://upload.cc/i4/O2t5A.jpg)
 
 # Installation...
 
